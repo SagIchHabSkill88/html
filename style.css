@@ -1,0 +1,30 @@
+body {background-color: blue ;
+	   margin-left: 40px;
+	   margin-right: 40px;
+	   font-size: 50px;"
+	   font-family: italic;
+
+}
+h2 {
+	color: red;
+	text-align: center;
+	font-size: 60px;
+	font-family: italic;
+	text-decoration: underline;
+
+}
+
+
+div {
+	border: 2px solid yellow;
+	background-color: green;
+	text-align: center;
+
+
+
+
+}
+
+
+
+
